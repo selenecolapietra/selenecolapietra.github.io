@@ -1,0 +1,37 @@
+title: Hi, I'm Selene
+description: Selene Colapietra's personal website # this means to ignore newlines until "baseurl:"
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: selenecolapietra.it # the base hostname & protocol for your site, e.g. http://example.com
+lang: it # site's language
+timezone: Europe/Rome # the timezone defined
+date_format: '%d %B %Y - %R' # basic date format
+encoding: utf-8 # default encoding
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Selene Colapietra # add your name
+author-img: avatar500.jpg # add your photo
+about-author: Studio medicina e organizzo meeting di neuroscienze e crescita personale # add description
+social-email: selenecolapietra@gmail.com # add your Email address
+social-linkedin: selenecolapietra # add your Linkedin handle
+social-facebook: selenecolapietra # add your Facebook handle
+social-instagram: selenecolapietra # add your Instagram handle
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 3
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

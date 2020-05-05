@@ -1,0 +1,16 @@
+{% case include.vplatform %}
+	{% when 'youtube' %}
+		{% assign video_width = include.vwidth | default: "560" %}
+		{% assign video_height = include.vheight | default: "315" %}
+<iframe width="{{ video_width }}" height="{{ video_height }}" src="https://www.youtube.com/embed/{{ include.vurl }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	{% when 'instagram' %}
+		{% assign video_width = include.vwidth | default: "320" %}
+		{% assign video_height = include.vheight | default: "425" %}
+<iframe width="{{ video_width }}" height="{{ video_height }}" src="https://www.instagram.com/p/{{ include.vurl }}/embed" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+	{% when 'facebook' %}
+		{% assign video_width = include.vwidth | default: "734" %}
+		{% assign video_height = include.vheight | default: "411" %}
+<iframe width="{{ video_width }}" height="{{ video_height }}" src="https://www.facebook.com/video/embed?video_id={{ include.vurl }}" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+	{% else %}
+<iframe width="{{ video_width }}" height="{{ video_height }}" src="{{ video_url }}" frameborder="0" allowfullscreen></iframe>
+{% endcase %}

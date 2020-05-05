@@ -1,0 +1,27 @@
+---
+layout: main
+---
+{% if paginator.page == 1 %}
+<article class="post">
+	<a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : "brain400.png" }})" href="{{ site.baseurl }}/aboutme"></a>
+	<div class="post-content">
+		<h2 class="post-title"><a href="{{ site.baseurl }}/aboutme">About Me</a></h2>
+		<p></p>
+	</div>
+</article>
+{% endif %}
+{% for post in paginator.posts %}
+<article class="post">
+	{% if post.img %}
+	<a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+	{% else %}
+	{% endif %}
+	<div class="post-content">
+		<h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+		<h3 class="post-date">{% include translated_date.html date=post.date %}</h3>
+		<p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+	</div>
+</article>
+{% endfor %}
+
+{% include pagination.html %}
