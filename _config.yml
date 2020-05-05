@@ -22,7 +22,7 @@ social-instagram: selenecolapietra # add your Instagram handle
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-165543856-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
