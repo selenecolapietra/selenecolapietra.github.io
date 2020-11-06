@@ -42,6 +42,3 @@ Ancor di più sono grata per aver incontrato lungo il mio percorso persone fanta
 * Francesco Stefanelli, amico e collaboratore nei meeting
 * Lorenzo Diomeda per l’aiuto nella cura dei social
 * Marco Giarnieri per esserci sempre stato
-
-
-Inoltre un ringraziamento speciale va al mio mentor Alberto Dietze per aver dato vita a questo sito e per l’impegno, la dedizione e la passione che mette in ogni cosa che fa.
