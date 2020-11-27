@@ -16,13 +16,15 @@ Da Febbraio 2019 si è dedicata ad incontri One2One con privati per il raggiungi
 
 Tiene meeting sia online che in presenza a Bari, San Severo e Lecce di neuroscienze e gestione delle emozioni.
 
-Grazie al forte interesse per l'innovazione, gestisce la tematica medica in una startup sull’healthcare (https://www.intellihearts.com/). Ha sviluppato un test di autovalutazione per fare un triage online sulla base delle linee guida adottate in ospedale in piena emergenza Covid19 ed aggiungendo a queste un algoritmo medico che permette di monitorare in modo intelligente le condizioni del paziente da casa, capire se queste sono critiche, instabili o stabili e quindi fornire suggerimenti su come comportarsi. 
+Grazie al forte interesse per l'innovazione, gestisce la tematica medica in una startup sull’healthcare: [Intellihearts](https://www.intellihearts.com/).
+
+Ha sviluppato un test di autovalutazione per fare un triage online sulla base delle linee guida adottate in ospedale in piena emergenza Covid19 ed aggiungendo a queste un algoritmo medico che permette di monitorare in modo intelligente le condizioni del paziente da casa, capire se queste sono critiche, instabili o stabili e quindi fornire suggerimenti su come comportarsi. 
 
 Sta inoltre lavorando sullo sviluppo delle features sul riconoscimento delle emozioni dall’ECG. 
 
 La sua startup è vincitrice del JUMP for Italy program, diplomata nel programma pre-accelleratore di startup Wise Guys, Y-combinator e Seedstart. 
-H
-a partecipato come mentor per le tematiche di teambuild, how2present e pnl all'edizione maggio 2020 dello Start Up Lab di Trento e ad ottobre 2020 allo Startup3 Innovation Weekend sull’economia circolare.
+
+Ha partecipato come mentor per le tematiche di teambuild, how2present e pnl all'edizione maggio 2020 dello Start Up Lab di Trento e ad ottobre 2020 allo Startup3 Innovation Weekend sull’economia circolare.
 
 Ad oggi tiene sessioni di coaching con privati per la gestione delle emozioni, raggiungimento di obiettivi personali, leadership e public speaking.
 
