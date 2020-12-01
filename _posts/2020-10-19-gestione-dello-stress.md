@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Gestione dello stress
-date: 2020-10-19 21:00:00 +0100
+date: 2020-10-19 20:00:00 +0100
 description: # Add post description (optional)
 img: posts/.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

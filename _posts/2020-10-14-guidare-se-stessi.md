@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Guidare se stessi
-date: 2020-10-14 21:00:00 +0100
+date: 2020-10-14 20:00:00 +0100
 description: # Add post description (optional)
 img: posts/.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

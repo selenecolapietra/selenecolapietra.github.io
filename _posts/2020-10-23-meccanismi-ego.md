@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: I meccanismi dell'ego
-date: 2020-10-23 21:00:00 +0100
+date: 2020-10-23 20:00:00 +0100
 description: # Add post description (optional)
 img: posts/.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
