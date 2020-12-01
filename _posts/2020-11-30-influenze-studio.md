@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Le emozioni influiscono anche sullo studio
-date: 2000-01-01 00:00:00 +0100
+date: 2020-11-30 21:00:00 +0100
 description: # Add post description (optional)
 img: posts/.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
