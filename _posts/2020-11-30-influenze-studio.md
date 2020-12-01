@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Le emozioni influiscono anche sullo studio
+title: Come le emozioni influiscono sullo studio
 date: 2020-11-30 21:00:00 +0100
 description: # Add post description (optional)
 img: posts/.jpg # Add image post (optional)
