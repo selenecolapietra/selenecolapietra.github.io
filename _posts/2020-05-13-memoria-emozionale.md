@@ -4,7 +4,7 @@ layout: post
 title: Memoria emozionale
 date: 2020-05-13 19:00:00 +0100
 description: # Add post description (optional)
-img: posts/.jpg # Add image post (optional)
+img: posts/20200513.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---

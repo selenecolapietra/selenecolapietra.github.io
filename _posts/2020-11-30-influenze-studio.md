@@ -4,7 +4,7 @@ layout: post
 title: Come le emozioni influiscono sullo studio
 date: 2020-11-30 21:00:00 +0100
 description: # Add post description (optional)
-img: posts/.jpg # Add image post (optional)
+img: posts/20201130.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: []
 ---
